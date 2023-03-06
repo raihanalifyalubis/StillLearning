@@ -1,3 +1,7 @@
 This is just file .txt what r u thinking?
 This is from branch master
+<<<<<<< HEAD
 Additional
+=======
+CKCKCKCKCK
+>>>>>>> raihan_access
